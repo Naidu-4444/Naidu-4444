@@ -10,6 +10,9 @@ Hi 👋, I'm Aditya <br>Full Stack Developer & Problem Solver from India
 ![](https://github-readme-stats.vercel.app/api?username=Naidu-4444&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Naidu-4444&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naidu-4444&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Naidu-4444&label=Profile%20Views&color=0e75b6&style=flat" alt="Naidu-4444" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
